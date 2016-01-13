@@ -1,0 +1,168 @@
+[submodule "src/dbus"]
+	path = src/dbus
+	url = git://anongit.freedesktop.org/git/dbus/dbus
+[submodule "src/d-feet"]
+	path = src/d-feet
+	url = git://git.gnome.org/d-feet
+[submodule "src/python-slip"]
+	path = src/python-slip
+	url = git@github.com:nphilipp/python-slip.git
+[submodule "src/pydbus"]
+	path = src/pydbus
+	url = git@github.com:LEW21/pydbus.git
+[submodule "src/txdbus"]
+	path = src/txdbus
+	url = git@github.com:cocagne/txdbus.git
+[submodule "src/dbus-python-old"]
+	path = src/dbus-python-old
+	url = git://anongit.freedesktop.org/dbus/dbus-python
+[submodule "src/go.dbus"]
+	path = src/go.dbus
+	url = git@github.com:guelfey/go.dbus.git
+[submodule "src/dbus-glib-old"]
+	path = src/dbus-glib-old
+	url = git://anongit.freedesktop.org/dbus/dbus-glib
+[submodule "src/rust-dbus"]
+	path = src/rust-dbus
+	url = git@github.com:diwic/dbus-rs.git
+[submodule "src/godbus"]
+	path = src/godbus
+	url = git@github.com:godbus/dbus.git
+[submodule "src/pydbusdecorator"]
+	path = src/pydbusdecorator
+	url = git@github.com:hugosenari/pydbusdecorator.git
+[submodule "src/dbusmap"]
+	path = src/dbusmap
+	url = git@github.com:taviso/dbusmap.git
+[submodule "src/python-dbusmock"]
+	path = src/python-dbusmock
+	url = git@github.com:martinpitt/python-dbusmock.git
+[submodule "examples/dbus-signal"]
+	path = examples/dbus-signal
+	url = git@github.com:MaZderMind/dbus-signal.git
+[submodule "examples/dbusfs"]
+	path = examples/dbusfs
+	url = git@github.com:sidorares/dbusfs.git
+[submodule "src/dbus-dump"]
+	path = src/dbus-dump
+	url = git@github.com:mvidner/dbus-dump.git
+[submodule "examples/dbus_python_example"]
+	path = examples/dbus_python_example
+	url = git@github.com:caspian311/dbus_python_example.git
+[submodule "src/gimp-dbus"]
+	path = src/gimp-dbus
+	url = git@github.com:GlimmerLabs/gimp-dbus.git
+[submodule "src/dbus-event"]
+	path = src/dbus-event
+	url = git@github.com:kirkeby/dbus-event.git
+[submodule "examples/vala-gdbus-demo"]
+	path = examples/vala-gdbus-demo
+	url = git@github.com:cutsea110/gdbus-demo.git
+[submodule "src/test-daemon"]
+	path = src/test-daemon
+	url = git@github.com:timlau/test-daemon.git
+[submodule "src/userland-dbus-event-manager"]
+	path = src/userland-dbus-event-manager
+	url = git@github.com:airtonix/userland-dbus-event-manager.git
+[submodule "src/dbus-daemon-proxy"]
+	path = src/dbus-daemon-proxy
+	url = git@github.com:alban/dbus-daemon-proxy.git
+[submodule "src/jlddbus"]
+	path = src/jlddbus
+	url = git@github.com:jldupont/jlddbus.git
+[submodule "src/dbuscron"]
+	path = src/dbuscron
+	url = git@github.com:kstep/dbuscron.git
+[submodule "examples/python-dbus-examples"]
+	path = examples/python-dbus-examples
+	url = git@github.com:stylesuxx/python-dbus-examples.git
+[submodule "src/pyconnman"]
+	path = src/pyconnman
+	url = git@github.com:liamw9534/pyconnman.git
+[submodule "src/pydbustree"]
+	path = src/pydbustree
+	url = git@github.com:smokedice/PyDBusTree.git
+[submodule "src/dbus-top"]
+	path = src/dbus-top
+	url = git@github.com:alexebird/dbus-top.git
+[submodule "examples/hooray"]
+	path = examples/hooray
+	url = git@github.com:Zex/Hooray.git
+[submodule "src/python-dbushelpers"]
+	path = src/python-dbushelpers
+	url = git@github.com:rambo/python-dbushelpers.git
+[submodule "src/mdbus"]
+	path = src/mdbus
+	url = git@github.com:freesmartphone/mdbus.git
+[submodule "src/dbustop"]
+	path = src/dbustop
+	url = git@github.com:maemo-tools-old/dbustop.git
+[submodule "src/python-dbusx"]
+	path = src/python-dbusx
+	url = git@github.com:geertj/python-dbusx.git
+[submodule "src/python-dbushelper"]
+	path = src/python-dbushelper
+	url = git@github.com:bertani/python-dbushelper.git
+[submodule "src/dbus-tool"]
+	path = src/dbus-tool
+	url = git@github.com:l2y3n2/dbus-tool.git
+[submodule "src/dbus-signals-benchmark"]
+	path = src/dbus-signals-benchmark
+	url = git@github.com:tasleson/dbus-signals.git
+[submodule "src/yum-daemon"]
+	path = src/yum-daemon
+	url = git@github.com:timlau/yum-daemon.git
+[submodule "src/dnf-daemon"]
+	path = src/dnf-daemon
+	url = git@github.com:timlau/dnf-daemon.git
+[submodule "src/hello"]
+	path = src/hello
+	url = git@github.com:lvht/hello-dbus.git
+[submodule "src/pywapi-dbus"]
+	path = src/pywapi-dbus
+	url = git@github.com:GunioRobot/pywapi-dbus.git
+[submodule "src/dbus_salt_agent"]
+	path = src/dbus_salt_agent
+	url = git@github.com:nnDarshan/dbus_agent.git
+[submodule "src/go-dbus-inspector"]
+	path = src/go-dbus-inspector
+	url = git@github.com:mastercactapus/dbus-inspector.git
+[submodule "src/dbus_asyncio"]
+	path = src/dbus_asyncio
+	url = git@github.com:hugosenari/dbus_async.git
+[submodule "src/multihooray"]
+	path = src/multihooray
+	url = git@github.com:Zex/multihooray.git
+[submodule "src/libvirt-dbus-proxy"]
+	path = src/libvirt-dbus-proxy
+	url = git@github.com:djs55/libvirt-dbus-proxy.git
+[submodule "src/dbus-ping"]
+	path = src/dbus-ping
+	url = git@github.com:kanchev/dbus-ping.git
+[submodule "src/iscander-dbus-examples"]
+	path = src/iscander-dbus-examples
+	url = git@github.com:iscander/dbus-examples.git
+[submodule "src/samples-dbus"]
+	path = src/samples-dbus
+	url = https://github.com/fbuihuu/samples-dbus
+[submodule "src/appctl"]
+	path = src/appctl
+	url = git@github.com:gcampax/appctl.git
+[submodule "src/dbus2any"]
+	path = src/dbus2any
+	url = git@github.com:hugosenari/dbus2any.git
+[submodule "src/python-systemd"]
+	path = src/python-systemd
+	url = git@github.com:wiliamsouza/python-systemd.git
+[submodule "src/hello-dbus"]
+	path = src/hello-dbus
+	url = git@github.com:lvht/hello-dbus.git
+[submodule "src/iomon"]
+	path = src/iomon
+	url = git@github.com:tijko/IO-Mon.git
+[submodule "src/mpris2"]
+	path = src/mpris2
+	url = git@github.com:hugosenari/mpris2.git
+[submodule "src/dfeet-mon-signal"]
+	path = src/dfeet-mon-signal
+	url = git@github.com:Zex/dfeet-mon-signal.git
