@@ -166,3 +166,42 @@
 [submodule "src/dfeet-mon-signal"]
 	path = src/dfeet-mon-signal
 	url = git@github.com:Zex/dfeet-mon-signal.git
+[submodule "src/tuned"]
+	path = src/tuned
+	url = https://git.fedorahosted.org/git/tuned.git
+[submodule "src/system-config-firewall"]
+	path = src/system-config-firewall
+	url = https://git.fedorahosted.org/git/system-config-firewall.git
+[submodule "src/firewalld"]
+	path = src/firewalld
+	url = git@github.com:t-woerner/firewalld.git
+[submodule "src/system-config-kdump"]
+	path = src/system-config-kdump
+	url = https://git.fedorahosted.org/git/system-config-kdump.git
+[submodule "src/system-config-services"]
+	path = src/system-config-services
+	url = https://git.fedorahosted.org/git/system-config-services.git
+[submodule "src/system-config-samba"]
+	path = src/system-config-samba
+	url = https://git.fedorahosted.org/git/system-config-samba.git
+[submodule "src/sectool"]
+	path = src/sectool
+	url = https://git.fedorahosted.org/git/sectool.git
+[submodule "src/yum"]
+	path = src/yum
+	url = git@github.com:rpm-software-management/yum.git
+[submodule "src/storaged"]
+	path = src/storaged
+	url = git@github.com:storaged-project/storaged.git
+[submodule "src/rtkit"]
+	path = src/rtkit
+	url = git://git.0pointer.net/rtkit.git
+[submodule "src/coherence"]
+	path = src/coherence
+	url = git@github.com:coherence-project/Coherence.git
+[submodule "src/certmonger"]
+	path = src/certmonger
+	url = git://git.fedorahosted.org/git/certmonger.git
+[submodule "src/atomic"]
+	path = src/atomic
+	url = git@github.com:projectatomic/atomic.git
